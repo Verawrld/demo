@@ -1,7 +1,7 @@
-package com.example.service;
+package com.example.demo.service;
 
-import com.example.models.Tournament;
-import com.example.repository.TournamentRepository;
+import com.example.demo.models.Tournament;
+import com.example.demo.repository.TournamentRepository;
 import org.springframework.stereotype.Service;
 
 import java.util.List;

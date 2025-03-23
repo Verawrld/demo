@@ -1,7 +1,8 @@
-package com.example.service;
+package com.example.demo.service;
 
-import com.example.models.Member;
-import com.example.repository.MemberRepository;
+import com.example.demo.models.Member;
+import com.example.demo.repository.MemberRepository;
+
 import org.springframework.stereotype.Service;
 
 import java.util.List;
