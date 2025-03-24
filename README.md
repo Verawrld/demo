@@ -83,3 +83,10 @@ This project is a RESTful API for managing golf club members and tournaments. It
    ```bash
    git clone <repository-url>
    cd <repository-folder>
+
+
+
+
+### Problems
+
+It was mostly going pretty good, until i think i had problems on the data base side, because i was getting errors with the password i set for the MySql but couldnt remember it, unfortantly i ran out of time, alot going on latly but well make sure i can do it fot the sprint 
